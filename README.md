@@ -1,7 +1,7 @@
 Android Asset Studio
 ====================
 
-**[Open the Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)**
+**[Open the Android Asset Studio](https://android.sk8.tech/)**
 
 **[See the older version](https://romannurik.github.io/AndroidAssetStudio/older-version/) if you're having trouble with the new version**
 
@@ -27,4 +27,4 @@ Once dependencies are installed, run with `gulp`:
 
 ## Related (third-party) projects
 
-- [Android Asset Studio Desktop Apps](https://androidassetstudio.codeplex.com/)
+- [Android Asset Studio Desktop Apps](https://android.sk8.tech/)
